@@ -38,3 +38,8 @@ Hard disk : 10 GB or above
 Software Requirements
 Technology : JAVA AWT, Swing
 Operating System : Windows XP/7 or higher
+
+## RUn
+#### javac CarSalesSystem.java
+#### java CarSalesSystem
+
